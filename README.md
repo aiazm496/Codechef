@@ -1,2 +1,2 @@
-# Codechef
-my codechef problems solutions.
+# codeforces
+my codechef/codeforces problems solutions.
